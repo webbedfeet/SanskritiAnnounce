@@ -7,20 +7,27 @@ categories: []
 tags: []
 menu: main
 ---
+<div style="font-family:Charter,sans-serif;">
 
-<div style="font-family:Charter;background-color:rgb(255,255,255);color:rgb(0,0,0)" bgcolor="#FFFFFF" text="#000000"><div style="font-family:Charter">
-<font color="#000000" size="4"><b><span style="line-height:33.12px;font-family:sans-serif">Dear Sanskriti
-Members and Friends:</span></b><b><span style="line-height:33.12px;font-family:sans-serif"><br clear="none"></span></b></font><div style="text-decoration-color:initial;margin-bottom:0.0001pt"><font size="4"><b><font face="verdana, sans-serif"><font color="#000000">   
- Sanskriti is getting ready to produce the </font><i><font color="#cc0000">2018-19 Members&#39; Directory</font></i><font color="#000000">, to be distributed to all the </font></font></b></font><font color="#000000" size="4"><b><font face="verdana, sans-serif">members </font></b></font><font style="font-family:verdana,sans-serif;color:rgb(0,0,0)" size="4"><b>and </b></font><b style="font-family:verdana,sans-serif;font-size:large"><font color="#000000">guests during Durga Puja. The Directory includes both </font><u><font color="#cc0000">sponsors&#39; messages</font></u><font color="#000000">
-and </font></b><b style="font-family:verdana,sans-serif;font-size:large"><u><font color="#cc0000">advertisements</font></u><font color="#000000">.</font></b><b style="color:rgb(0,0,0);font-family:verdana,sans-serif;font-size:large"><span style="line-height:33.12px">   </span></b></div><div style="text-decoration-color:initial;margin-bottom:0.0001pt"><b style="color:rgb(0,0,0);font-family:verdana,sans-serif;font-size:large"><span style="line-height:33.12px"><br></span></b></div><p class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-m_-5615607528325791239ydpb88801a0yiv3709391450ydp74ef360dyiv0800959925gmail-MsoListParagraphCxSpLast" style="font-size:small;text-decoration-color:initial"><font size="4"><font color="#000000" face="verdana, sans-serif"><b><span style="line-height:33.12px"> 
-   We welcome donations you would like to make to Sanskriti to offset
-the substantial costs of Durga Puja arrangements.  Please fill the
-<a href="https://drive.google.com/file/d/0Bzb2GMx5bPXGeEVPWVF3enJPcTVwQUFYT3FabVR0WENDeGgw/view?usp=sharing" target=:_blank">sponsorship form</a> below and mail your</span> tax-deductible </b></font></font><font style="font-family:verdana,sans-serif;color:rgb(0,0,0)" size="4"><b>contributi<wbr>on </b></font><b style="font-family:verdana,sans-serif;font-size:large"><font color="#000000">checks to the address included before </font><span class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-m_-5615607528325791239ydpb88801a0yiv3709391450ydp74ef360dyiv0800959925gmail-aqj"><span class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-aBn" style="border-bottom:1px dashed rgb(204,204,204)"><span class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-aQJ"><font color="#cc0000"><span style="display:inline;font-size:inherit;padding:0px" class="m_5695687120951400355__postbox-detected-content m_5695687120951400355__postbox-detected-date">August 31</span></font></span></span></span><font color="#000000"> so that we can acknowledge your </font></b><b style="color:rgb(0,0,0);font-family:verdana,sans-serif;font-size:large">generosity in the <i>2018-2019 Directory</i>.</b></p><p class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-m_-5615607528325791239ydpb88801a0yiv3709391450ydp74ef360dyiv0800959925gmail-MsoListParagraphCxSpLast" style="font-size:small;text-decoration-color:initial"><b style="font-size:large"><font color="#000000" face="verdana, 
-sans-serif">     </font></b></p><p class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-m_-5615607528325791239ydpb88801a0yiv3709391450ydp74ef360dyiv0800959925gmail-MsoListParagraphCxSpLast" style="font-size:small;text-decoration-color:initial"><b style="font-size:large"><font color="#000000" face="verdana, 
-sans-serif">     We also invite members and friends to advertise their
-products and business in the pages of the </font></b><b style="color:rgb(0,0,0);font-family:verdana,sans-serif;font-size:large">Directory.
-Please complete the attached <a href="https://drive.google.com/file/d/0Bzb2GMx5bPXGSFFXdDRvNFhvNkVBVllkNGRHLVFfb0Z2WWRR/view?usp=sharing" target="_blank">advertisement form</a> and mail your ad copy
-and check to the </b><b style="color:rgb(0,0,0);font-family:verdana,sans-serif;font-size:large">address included on the form.</b></p><p class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-m_-5615607528325791239ydpb88801a0yiv3709391450ydp74ef360dyiv0800959925gmail-MsoListParagraphCxSpLast" style="text-decoration-color:initial"><font face="verdana, sans-serif"><span style="line-height:33.12px"><font color="#000000"><b>      </b></font></span></font></p><p class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-m_-5615607528325791239ydpb88801a0yiv3709391450ydp74ef360dyiv0800959925gmail-MsoListParagraphCxSpLast" style="text-decoration-color:initial"><font face="verdana, sans-serif"><span style="line-height:33.12px"><font color="#000000"><b><font size="4">   
- We look forward to seeing you at the Durga Puja.  Please come and
-celebrate </font></b></font></span><span style="line-height:33.12px"><b><font color="#000000" size="4">with us.</font></b></span></font></p><p class="m_5695687120951400355ydp8a26766fyiv2543469341ydp1fccc892yiv1011017929gmail-m_-5615607528325791239ydpb88801a0yiv3709391450ydp74ef360dyiv0800959925gmail-MsoListParagraphCxSpLast" style="font-size:small;text-decoration-color:initial"><font size="4"><span><span style="line-height:33.12px;font-family:sans-serif"><span style="font-weight:bold;color:rgb(38,40,42)">Sincerely,</span><br clear="none"><span style="font-weight:bold;color:rgb(38,40,42)">Board
-of Directors, 2018</span><br clear="none"><span style="font-weight:bold;color:rgb(38,40,42)">Sanskriti, Inc.</span></span></span></font></p><br>
+Dear Sanskriti Members and Friends:  <p/>
+
+Sanskriti is getting ready to produce the 2018-19 Members' Directory, to be distributed to all the members and guests during Durga Puja. The Directory includes both 
+<font style="font-weight:bold;font-style:italic;color:#cc0000;">responsors' messages</font> and 
+<font style="font-weight:bold;font-style:italic;color:#cc0000;">advertisements</font>.<p/>
+
+We welcome donations you would like to make to Sanskriti to offset the substantial costs of Durga Puja arrangements. Please fill the 
+<b><u><a href="https://drive.google.com/file/d/0Bzb2GMx5bPXGeEVPWVF3enJPcTVwQUFYT3FabVR0WENDeGgw/view?usp=sharing" target=:_blank">sponsorship form</a></u></b> below and mail your tax-deductible contribution checks to the address included before <font style="font-weight:bold;color:red;">August 31</font> so that we can acknowledge your generosity in the 2018-2019 Directory. <p/>
+
+
+We also invite members and friends to advertise their products and business in the pages of the Directory. Please complete the attached 
+<b><u><a href="https://drive.google.com/file/d/0Bzb2GMx5bPXGSFFXdDRvNFhvNkVBVllkNGRHLVFfb0Z2WWRR/view?usp=sharing" target="_blank">advertisement form</a></u></b> and mail your ad copy and 
+check to the address included on the form.
+<p/>
+We look forward to seeing you at the Durga Puja. Please come and celebrate with us.
+
+<p/>
+Sincerely,  <br/>
+Board of Directors, 2018  <br/>
+Sanskriti, Inc.
+
+</div>
