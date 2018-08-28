@@ -20,7 +20,9 @@ The Election Committee of Sanskriti informs the community that by the end of thi
 
 The Election Committee invites nominations from Sanskriti members to fill the four aforementioned vacant positions, according to the stipulations stated above. **In order to be eligible for the BOD nomination, the candidate is required to be a member of Sanskriti for at least 30 days as on the closing date of nomination**. We encourage you to become part of this process either by showing your willingness to serve or by nominating potential candidates for these positions. Sanskriti needs enthusiastic and dedicated volunteers to serve in the Board for organizing community activities all year round. Please reach out and nominate yourself or others.
 
-The nomination form for the Sanskriti BOD is posted at [www.sanskriti-dc.org/](http://www.sanskriti-dc.org). The Nomination form is also attached with this email. Please fill up the nomination form in its entirety and either email or send through postal communication to the address stated in the nomination form. The last date for nominations to be received is October 10th, 2018. Incomplete/late applications may not be accepted.
+The nomination form for the Sanskriti BOD is posted at
+<a href="http://www.sanskriti-dc.org" target="_blank">www.sanskriti-dc.org</a>. The Nomination form is also attached with this email. Please fill up the nomination form in its entirety and either email or send through postal communication to the address stated in the nomination form. The last date for nominations to be received is October 10th, 2018. Incomplete/late applications may not be accepted.
+
 
 
 <b><u>Community Council (CC) Vacancy</u></b>
