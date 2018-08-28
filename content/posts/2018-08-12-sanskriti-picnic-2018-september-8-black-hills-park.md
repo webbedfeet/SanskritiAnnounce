@@ -23,8 +23,8 @@ we need your help for total head counts. </span></b></font></p><p class="m_36517
 Kids (12 yrs and above): </span><span style="font-size:18pt;color:red">$10</span></b></p><p class="m_3651760648070337992ydp8053324byiv1158180511ydp29a2da27yiv4100657943x_ydpb74c5f27yiv0429097964ydp947d497cyiv1589891241ydpe5a6aa21yiv5804099950MsoNormal" style="color:rgb(38,40,42);font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:large;margin-bottom:0.0001pt;line-height:normal"><span style="font-size:14.5pt"> </span></p><p class="m_3651760648070337992ydp8053324byiv1158180511ydp29a2da27yiv4100657943x_ydpb74c5f27yiv0429097964ydp947d497cyiv1589891241ydpe5a6aa21yiv5804099950MsoNormal" style="color:rgb(38,40,42);font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:large;margin-bottom:0.0001pt;line-height:normal"><b><i><span style="font-size:20pt;font-family:algerian;color:red">Venue:</span></i></b></p><p class="m_3651760648070337992ydp8053324byiv1158180511ydp29a2da27yiv4100657943x_ydpb74c5f27yiv0429097964ydp947d497cyiv1589891241ydpe5a6aa21yiv5804099950MsoNormal" style="color:rgb(38,40,42);font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:large;margin-bottom:0.0001pt;line-height:18pt"><b><span style="font-size:18pt;color:rgb(112,48,160)">Black Hill Regional Park (Shelter F)</span></b></p><p class="m_3651760648070337992ydp8053324byiv1158180511ydp29a2da27yiv4100657943x_ydpb74c5f27yiv0429097964ydp947d497cyiv1589891241ydpe5a6aa21yiv5804099950MsoNormal" style="color:rgb(38,40,42);font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:large;margin-bottom:0.0001pt;line-height:18pt"><b><span style="font-size:18pt;color:rgb(112,48,160)">20930 Lake Ridge Drive</span></b></p><p class="m_3651760648070337992ydp8053324byiv1158180511ydp29a2da27yiv4100657943x_ydpb74c5f27yiv0429097964ydp947d497cyiv1589891241ydpe5a6aa21yiv5804099950MsoNormal" style="color:rgb(38,40,42);font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:large;margin-bottom:0.0001pt;line-height:18pt"><b><span style="font-size:18pt;color:rgb(112,48,160)">Boyds, MD.</span></b></p><p class="m_3651760648070337992ydp8053324byiv1158180511ydp29a2da27yiv4100657943x_ydpb74c5f27yiv0429097964ydp947d497cyiv1589891241ydpe5a6aa21yiv5804099950MsoNormal" style="color:rgb(38,40,42);font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:large;margin-bottom:0.0001pt;text-align:justify;line-height:normal"><b><span style="font-size:18pt;color:rgb(0,0,153)"> </span></b></p><p class="m_3651760648070337992ydp8053324byiv1158180511ydp29a2da27yiv4100657943x_ydpb74c5f27yiv0429097964ydp947d497cyiv1589891241ydpe5a6aa21yiv5804099950MsoNormal" style="color:rgb(38,40,42);font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:large;margin-bottom:0.0001pt;line-height:normal"><b><i><span style="font-size:20pt;font-family:algerian;color:rgb(192,0,0)">Time:</span></i></b></p><p class="m_3651760648070337992ydp8053324byiv1158180511ydp29a2da27yiv4100657943x_ydpb74c5f27yiv0429097964ydp947d497cyiv1589891241ydpe5a6aa21yiv5804099950MsoNormal" style="color:rgb(38,40,42);font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:large;margin-bottom:0.0001pt;line-height:normal"><b><i><span style="font-size:20pt;color:rgb(0,0,153)"><a href="http://airmail.calendar/2018-08-12%2021:00:00%20EDT" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://airmail.calendar/2018-08-12%252021:00:00%2520EDT&amp;source=gmail&amp;ust=1535363919733000&amp;usg=AFQjCNFmNkZdqLAs6KHL5oblTK1gWsczFA">9:00</a> am –
 Sun Down……</span></i></b><b><i><span style="font-size:14pt;color:rgb(0,0,153)"> </span></i></b></p>
 
-<p/>
-<table style="font-family:Helvetica, Arial, sans-serif; font-size: 14pt;color: rgb(38,40,42);width: 6in;" border="0" cellspacing="0" cellpadding="0">
+
+<table style="font-family:Helvetica, Arial, sans-serif; font-size: 14pt;color: rgb(38,40,42);width: 7in;" border="0" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td colspan='2' rowspan='1' style='text-align:center;border:1pt solid; padding:0in 5.4pt' valign='top'> <b>Contacts</b> </td>
@@ -34,17 +34,17 @@ Sun Down……</span></i></b><b><i><span style="font-size:14pt;color:rgb(0,0,153
     </tr>
     <tr style="border:1pt solid;padding:0in 5.4pt">
       <td colspan='1' rowspan='1'style="border: 1pt; padding: 0in 5.4pt;text-align: center;"><b>Swapan Sinha</b> </td><td colspan='1' rowspan='1' style = "text-align:center;"><b>
-      [swapan_sinha@hotmail.com](mailto:swapan_sinha@hotmail.com)</b></td>
+      <a href="mailto:swapan_sinha@hotmail.com">swapan_sinha@hotmail.com</a></b></td>
     </tr>
     <tr style="border:1pt solid;padding:0in 5.4pt">
       <td colspan='1' rowspan='1'style="border: 1pt; padding: 0in 5.4pt;text-align: center;"><b>Soumyadeep Dey</b> </td><td colspan='1' rowspan='1' style = "text-align:center;"><b>
-      [shoumo3@gmail.com](mailto:shoumo3@gmail.com)</b></td>
+      <a href="mailto:shoumo3@gmail.com">shoumo3@gmail.com</a></b></td>
     </tr>
     <tr style="border:1pt solid;padding:0in 5.4pt">
       <td colspan='1' rowspan='1'style="border: 1pt; padding: 0in 5.4pt;text-align: center;"><b>Lina Chakrabarti</b> </td><td colspan='1' rowspan='1' style = "text-align:center;"><b>
-      [lina_chak@hotmail.com](mailto:lina_chak@hotmail.com)</b></td>
+      <a href="lina_chak@hotmail.com">lina_chak@hotmail.com</a></b></td>
     </tr>
   </tbody>
 <table>
-<p/>
+
 <p  style="color:rgb(38,40,42);font-family:"Helvetica Neue,Helvetica,Arial,sans-serif";font-style:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;text-decoration:none;margin-bottom:0.0001pt;font-size:large;line-height:normal"><b><span style="font-size:18pt;color:rgb(153,0,0)">Sanskriti BoD 2018</span></b></p>
