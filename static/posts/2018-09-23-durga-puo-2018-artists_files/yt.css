@@ -1,9 +1,10 @@
 body {
   background-color: lightyellow;
-  font-family: Rockwell, serif;
 }
 
-
+* {
+  font-family: Rockwell, serif;
+}
 h1 {
   font-size:28pt;
 }
