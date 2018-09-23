@@ -34,4 +34,3 @@ menu: main
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9XJmqD8L7xM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/toRQ8PgJ2tI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OWsSuPsEn5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
