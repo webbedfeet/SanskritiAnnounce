@@ -9,11 +9,12 @@ menu: main
 ---
 <link href="/posts/2018-09-23-durga-puo-2018-artists_files/yt.css" rel="stylesheet"></link>
 
-<img src="/posts/2018-09-23-durga-puo-2018-artists_files/Slide2.png" alt="Durga Pujo 2018" width="80%"/>
+<img src="/posts/2018-09-23-durga-puo-2018-artists_files/Slide2.png" alt="Durga Pujo 2018" 
+  style = "width:100%; height:300px;"/>
 
 <div border="5px solid black;">
 
-<table style="width:80%">
+<table style="width:80%; text-align:center;">
 <tr>
 <td> <a href="#durnibar">Durnibar</a></td><td><a href="#somlata">Somlata</a></td><td><a href="#madhu">Madhubanti & Dipayan</a></td>
 </tr>
