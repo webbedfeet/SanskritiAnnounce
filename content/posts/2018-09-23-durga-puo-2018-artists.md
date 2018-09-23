@@ -22,7 +22,7 @@ menu: main
 
 ------
 
-# <a name="durnibar"></a>Durnibar Saha
+# <a name="durnibar"></a>Durnibar Saha (Friday, October 19, 8 pm)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfiWu5lRI1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1ihvaEmRMg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ menu: main
 
 ------
 
-# <a name="somlata"></a>Somlata and the Aces
+# <a name="somlata"></a>Somlata and the Aces (Saturday, October 20)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JkpT0ZDtXjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/obmhvxlx87k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -39,7 +39,7 @@ menu: main
 -------
 
 
-# <a name="madhu"></a>Madhubanti, Dipayan and band
+# <a name="madhu"></a>Madhubanti, Dipayan and band (Sunday, October 21)
 
 ## Madhubanti
 
