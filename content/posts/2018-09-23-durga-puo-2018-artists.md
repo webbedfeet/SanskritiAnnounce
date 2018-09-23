@@ -10,7 +10,7 @@ menu: main
 <link href="/posts/2018-09-23-durga-puo-2018-artists_files/yt.css" rel="stylesheet"></link>
 
 <img src="/posts/2018-09-23-durga-puo-2018-artists_files/Slide2.png" alt="Durga Pujo 2018" 
-  style = "width:100%; height:300px;"/>
+  style = "width:100%; height:400px;"/>
 
 <div border="5px solid black;">
 

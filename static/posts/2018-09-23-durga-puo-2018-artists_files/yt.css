@@ -6,6 +6,12 @@ body {
   font-family: Rockwell, serif;
 }
 
+h1{
+  font-size: 40pt;
+}
+h2{
+  font-size: 36pt;
+}
 hr{
   height: 12px;
     border: 0;
