@@ -7,22 +7,29 @@ categories: []
 tags: []
 menu: main
 ---
+<link href="yt.css" rel="stylesheet"></link>
 
-<img src="/posts/2018-09-23-durga-puo-2018-artists_files/Slide2.png" alt="Durga Pujo 2018" width="80%"/>
+<img src="../../static/posts/2018-09-23-durga-puo-2018-artists_files/Slide2.png" alt="Durga Pujo 2018" width="80%"/>
 
-<h1 style = "font-size:20pt;"> Durnibar Saha</h1>
+------
+
+# Durnibar Saha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfiWu5lRI1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+------
 
-<h1 style="font-size:20pt;">Somlata and the Aces</h1>
+# Somlata and the Aces
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JkpT0ZDtXjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/obmhvxlx87k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xCA-JAHZRM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h1 style="font-size:20pt;"> Madhubanti, Dipayan and band</h1>
+-------
+
+
+# Madhubanti, Dipayan and band
 
 ## Madhubanti
 
