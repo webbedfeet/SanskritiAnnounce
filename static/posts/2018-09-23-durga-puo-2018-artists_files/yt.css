@@ -2,15 +2,17 @@ body {
   background-color: lightyellow;
 }
 
-* {
+td {
   font-family: Rockwell, serif;
 }
 
 h1{
-  font-size: 40pt;
+  font-size: large;
+  font-family: Rockwell, serif;
 }
 h2{
-  font-size: 36pt;
+  font-family: Rockwell, serif;
+  font-size: large;
 }
 hr{
   height: 12px;
