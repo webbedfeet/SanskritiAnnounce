@@ -1,5 +1,12 @@
 ---
-<img src="/posts/2018-09-23-durga-puo-2018-artists_files/Slide2.png" alt="" width="80%"/>---
+title: Durga Puo 2018 Artists
+author: Abhijit
+date: '2018-09-23'
+slug: durga-puo-2018-artists
+categories: []
+tags: []
+type: default
+---
 
 <img src="/posts/2018-09-23-durga-puo-2018-artists_files/Slide2.png" alt="Durga Pujo 2018" width="80%"/>
 
