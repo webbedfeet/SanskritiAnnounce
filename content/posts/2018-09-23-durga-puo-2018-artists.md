@@ -7,6 +7,7 @@ categories: []
 tags: []
 menu: main
 ---
+
 <link href="/posts/2018-09-23-durga-puo-2018-artists_files/yt.css" rel="stylesheet"></link>
 
 <img src="/posts/2018-09-23-durga-puo-2018-artists_files/Slide2.png" alt="Durga Pujo 2018" 
@@ -23,6 +24,12 @@ menu: main
 ------
 
 # <a name="durnibar"></a>Durnibar Saha (Friday, October 19, 8 pm)
+
+## Promo
+
+<iframe src="https://www.youtube.com/embed/ArGxBcPZosE?ecver=2" width="560" height="315" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Other videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfiWu5lRI1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1ihvaEmRMg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
