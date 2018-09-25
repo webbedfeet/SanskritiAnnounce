@@ -31,8 +31,8 @@ your overwhelming support at all Sanskriti events. You have participated in
   <p>
 <span style="color: red; padding: 0; line-height: 1;">
 Friday, October 19, 6-11PM<br>
-  Saturday, October 20, 11AM - 11PM<br>
-Sunday, October 21, 11AM - 9PM<br>
+  Saturday, October 20,  9AM - 11PM<br>
+Sunday, October 21,  9AM - 10PM<br>
   </span></p><p>
 Venue
 <span style="color: red;">
