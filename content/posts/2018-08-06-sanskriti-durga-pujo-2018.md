@@ -1,11 +1,11 @@
 ---
-title: Sanskriti Durga Pujo 2018
+title: "Sanskriti Durga Pujo 2018"
 author: ''
 date: '2018-08-06'
-slug: sanskriti-durga-pujo-2018
-categories: []
-tags: []
 menu: main
+slug: sanskriti-durga-pujo-2018
+tags: []
+categories: []
 ---
 
 <div style="text-align:center">
