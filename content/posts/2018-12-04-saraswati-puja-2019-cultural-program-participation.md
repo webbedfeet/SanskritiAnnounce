@@ -2,10 +2,10 @@
 title: 'Saraswati Puja 2019: Cultural Program Participation'
 author: Sanskriti BOD 2018
 date: '2018-12-04'
+menu: main
 slug: saraswati-puja-2019-cultural-program-participation
 categories: []
 tags: []
-type: default
 ---
 
 <style>
@@ -26,7 +26,12 @@ We are excited to annouce the first Sanskriti event for the next year - <font co
 <font color=rgb(0,0,204)>Venue:</font>  
 <font color=rgb(0,153,0)>Damascus High School, Damascus, Maryland</font>
 
-We are seeking community participation in the cultural programs. If you or your children would like to perform at this event, please see the documents at the links below. Each interested participant or ppint of contact for group performances must fill out the attached _Request for Participation Form_ and send it to <a href="mailto:culsec@sanskriti-dc.org">culsec@sanskriti-dc.org</a>
+We are seeking community participation in the cultural programs. If you or your children would like to perform at this event, please see the documents at the links below. Each interested participant or point of contact for group performances must fill out the attached _Request for Participation Form_ and send it to <a href="mailto:culsec@sanskriti-dc.org">culsec@sanskriti-dc.org</a>
+
+
+
+1. [Request for Participation Form](https://drive.google.com/file/d/1qtPK8wNvhFil7bS6zM-KSdnI81B_xBSd/view?usp=sharing)
+1. [Guidelines and Additional Information](https://drive.google.com/file/d/1WLgZxRVSiMNma_z5F35Q_W2sNNrJewyk/view?usp=sharing)
 
 We especially encourage group pragramsthat exhibit children's creativity and artistic talent. Please note the following important dates regarding request for participation.
 
