@@ -41,4 +41,4 @@ We especially encourage group pragramsthat exhibit children's creativity and art
 | Notification to prospective participants regarding acceptance or rejection | December 30, 2018 |
 
 
-Informatino about childrens' recitation and drawing competitions will follow
+Information about childrens' recitation and drawing competitions will follow
